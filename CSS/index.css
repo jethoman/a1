@@ -1,0 +1,33 @@
+body {
+	padding: 5px 275px 5px 275px;
+	background-color: white;
+}
+h1 {
+	text-align: center;
+	font-family: arial;
+}
+img {
+	display: block;
+	margin: auto;
+	padding: 20px;
+
+}
+p {
+	background-color: #f2f2f2;
+	margin: 5px;
+	padding: 20px;
+	font-family: arial;
+	font-size: 14px;
+}
+.quote {
+	background-color: #f2f2f2;
+	margin: 5px;
+	padding: 20px;
+	font-family: arial;
+	font-size: 14px;
+	color: red;	
+}
+h2 {
+	font-family: arial;
+	text-align: center;
+}
