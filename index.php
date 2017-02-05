@@ -3,7 +3,7 @@
 <head>
   <title>Assignment 1</title>
   <meta charset="utf-8">
-  <link rel="stylesheet" type="text/css" href="/CSS/index.css">
+  <link rel="stylesheet" type="text/css" href="CSS/index.css">
 </head>
 <body>
 	<h1>Joel Thoman</h1>
