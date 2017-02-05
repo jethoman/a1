@@ -17,5 +17,5 @@
 		echo $quote[rand(0,2)];
 	?>
 </div>
-<body>
+</body>
 </html>
